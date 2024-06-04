@@ -1,4 +1,3 @@
-// src/scripts/main.js
 
 import { initializeServiceCards } from './service';
 import { initializeCarousel } from './carousel';

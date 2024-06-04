@@ -1,4 +1,3 @@
-// src/components/TestimonialCarousel.js
 
 function createTestimonialCarousel(testimonials) {
   const carousel = document.createElement('div');

@@ -1,4 +1,3 @@
-// src/components/ServiceCard.js
 
 function createServiceCard({ image, title, description }) {
     const card = document.createElement('div');

@@ -1,4 +1,3 @@
-// src/scripts/form.js
 
 import createContactForm from '../components/ContactForm';
 

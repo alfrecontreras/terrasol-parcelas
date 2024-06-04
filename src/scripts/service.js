@@ -1,4 +1,3 @@
-// src/scripts/service.js
 
 import createServiceCard from '../components/ServiceCard';
 

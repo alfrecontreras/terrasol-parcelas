@@ -1,5 +1,3 @@
-// src/scripts/carousel.js
-
 import createTestimonialCarousel from '../components/TestimonialCarousel';
 
 export function initializeCarousel() {
