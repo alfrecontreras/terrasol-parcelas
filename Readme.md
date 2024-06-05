@@ -21,11 +21,19 @@ Landing page para Terrasol Parcelas, una empresa que ofrece la venta de parcelas
 |   |   |-- form.js
 |   |-- /styles
 |   |   |-- main.css
+|   |-- /endpoints
+|   |   |-- InfoContactoEndpoint.php
+|   |   |-- HistoriaEndpoint.php
+|   |   |-- PreguntaFrecuenteEndpoint.php
+|   |   |-- ParcelaEndpoint.php
 |   |-- App.js
 |   |-- index.js
+|   |-- swagger.php
 |
+|-- swagger.json
 |-- package.json
 |-- webpack.config.js
+|-- README.md
 
 
 ## Instalación
