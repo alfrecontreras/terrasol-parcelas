@@ -62,3 +62,20 @@ npm start
 npm run build
 
 
+### Swagger Integration
+
+### Setting up Swagger UI
+
+1. **Install dependencies:**
+
+   ```bash
+   composer require zircote/swagger-php
+
+php swagger.php > swagger.json
+
+
+### Verifica la Integración
+
+Después de subir los cambios, asegúrate de que los archivos necesarios para Swagger están en el repositorio y que puedes acceder a la documentación de tu API desde `swagger-ui/index.html`.
+
+Si sigues estos pasos, deberías poder actualizar tu proyecto en GitHub con la integración de Swagger y los cambios en la estructura del proyecto.
